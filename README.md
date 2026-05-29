@@ -1,10 +1,10 @@
 # About Me
 ## Samuel Prakash 
-Python Backend Developer | Python Developer | AI & ML Enthusiast<br>
-<br>Building scalable backend systems, APIs, automation tools, and AI-powered applications using Python.<br>
-<br>Tech Stack:<br>Python • FastAPI • Flask • PostgreSQL • MySQL • Redis • Docker • Git • Linux • AI/ML<br>
-<br>Interests:<br>Backend Engineering • System Design • Machine Learning • LLM Applications • Automation<br>
-<br>Focused on writing clean, maintainable code and solving real-world problems through software.
+#### Aspiring Python Backend Developer | Python Developer | AI & ML Enthusiast<br>
+#### <br>Building scalable backend systems, APIs, automation tools, and AI-powered applications using Python.<br>
+#### <br>Tech Stack:<br>Python • FastAPI • Flask • PostgreSQL • MySQL • Redis • Docker • Git • Linux • AI/ML<br>
+#### <br>Interests:<br>Backend Engineering • System Design • Machine Learning • LLM Applications • Automation<br>
+#### <br>Focused on writing clean, maintainable code and solving real-world problems through software.
 
 
 ##💻 Tech Stack:
