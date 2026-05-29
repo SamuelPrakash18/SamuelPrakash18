@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 💫 About Me:
 # Backend Developer Building Scalable Systems<br><br>Backend Developer | Python Engineer | AI & ML Enthusiast<br><br>I enjoy building scalable backend systems, intelligent applications, and automation solutions that solve real-world problems.<br>### Core Expertise<br><br>* Backend Development<br>* Python Engineering<br>* API Design & Development<br>* Database Systems<br>* Authentication & Security<br>* AI/ML Integration<br>* Data Processing Pipelines<br>* System Design Fundamentals<br><br>### Engineering Philosophy<br><br>* Write clean and maintainable code<br>* Build scalable systems<br>* Focus on performance and reliability<br>* Learn continuously through real projects<br>* Solve real-world problems with technology<br><br>### Currently Exploring<br><br>* Advanced Backend Architecture<br>* Distributed Systems<br>* Machine Learning Deployment<br>* AI Agents & LLM Applications<br>* Cloud-Native Development<br><br>Open to collaborating on interesting projects and backend engineering opportunities.<br>
 
